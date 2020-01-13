@@ -1,0 +1,19 @@
+.container {
+    background-color: var(--color-grey-light-1);
+    height: 80rem;
+    width: 80%;
+    margin: 8rem auto;
+    max-width: 900px;
+}
+
+.heading {
+
+    font-size: 1.4rem;
+    border-bottom: var(--line);
+    background-color: #fff;
+    height: 7rem;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
